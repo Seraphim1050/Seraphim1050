@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&username=Seraphim1050" height="150" alt="languages graph"  />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10" alt="readme stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=Seraphim1050&show_icons=true&count_private=true&theme=gruvbox" height="150" alt="stats graph"  />
   
   
